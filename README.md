@@ -1,4 +1,5 @@
-# IDentifyX (INSTALL MAMP AND START IT) 
+![Uploading Screenshot 2025-08-16 at 8.29.58 PM.png…]()
+
 Just An Project For Hands On Skills
 # IDentifyX - Smart Employee ID Card System
 
@@ -9,7 +10,8 @@ A complete solution for generating professional employee ID cards with QR verifi
 
 ## ✨ Features
 
-- 🖼️ **Dynamic ID Card Generation** with employee photos
+- 🖼️ **Dynamic ID Card Generation** with employee photos<img width="1458" height="827" alt="Screenshot 2025-08-16 at 8 29 43 PM" src="https://github.com/user-attachments/assets/48025128-cbe9-4ece-bb44-9b86e2900d65" />
+
 - 📲 **QR Code Integration** for quick verification
 - 📱 **Contact & Social Media Links** (Phone, Instagram)
 - 💾 **Database Backend** for employee records
@@ -26,7 +28,7 @@ A complete solution for generating professional employee ID cards with QR verifi
 - Bootstrap 5
 
 - ## 🛠️ Installation
-
+# IDentifyX (INSTALL MAMP AND START IT) 
 ### 1. Database Setup
 ```sql
 CREATE DATABASE employee_attendance_system;
