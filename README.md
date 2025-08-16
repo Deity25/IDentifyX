@@ -1,4 +1,4 @@
-# IDentifyX
+# IDentifyX (INSTALL MAMP AND START IT) 
 Just An Project For Hands On Skills
 # IDentifyX - Smart Employee ID Card System
 
