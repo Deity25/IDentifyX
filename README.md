@@ -7,7 +7,7 @@ Just An Project For Hands On Skills
 <img width="401" height="255" alt="Screenshot 2025-08-16 at 8 04 15 PM" src="https://github.com/user-attachments/assets/bdb69774-ed16-461a-84ba-85cbb464207c" />
 
 A complete solution for generating professional employee ID cards with QR verification, contact management, and social media integration.
-
+Drive Link For Working Lookup ------- <<<<<<< https://drive.google.com/drive/folders/1cDUaVLaUbFpIt7NraWjN2QTkGwG5-wk5?usp=share_link >>>>>
 ## ✨ Features
 
 - 🖼️ **Dynamic ID Card Generation** with employee photos<img width="1458" height="827" alt="Screenshot 2025-08-16 at 8 29 43 PM" src="https://github.com/user-attachments/assets/48025128-cbe9-4ece-bb44-9b86e2900d65" />
