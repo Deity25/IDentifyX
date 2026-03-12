@@ -6,8 +6,6 @@ $conn = new mysqli('localhost', 'root', 'root', 'employee_attendance_system');
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-
-// Verify employee ID exists in URL
 if (!isset($_GET['id']) || empty($_GET['id'])) {
     header("Location: admin.php");
     exit();
