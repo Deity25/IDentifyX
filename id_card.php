@@ -22,7 +22,6 @@ if ($result->num_rows === 0) {
 }
 $employee = $result->fetch_assoc();
 ?>
-
 <!-- <!DOCTYPE html>
 <html>
 <head>
