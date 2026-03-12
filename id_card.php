@@ -15,7 +15,6 @@ $stmt = $conn->prepare("SELECT * FROM employees WHERE employee_id = ?");
 if (!$stmt) {
     die("Prepare failed: " . $conn->error);
 }
-
 $stmt->bind_param("s", $employee_id);
 $stmt->execute();
 $result = $stmt->get_result();
