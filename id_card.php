@@ -18,7 +18,6 @@ if (!$stmt) {
 $stmt->bind_param("s", $employee_id);
 $stmt->execute();
 $result = $stmt->get_result();
-
 if ($result->num_rows === 0) {
     die("Employee not found with ID: " . htmlspecialchars($employee_id));
 }
