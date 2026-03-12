@@ -11,7 +11,6 @@ if (!isset($_GET['id']) || empty($_GET['id'])) {
     exit();
 }
 $employee_id = $_GET['id'];
-// Get employee data
 $stmt = $conn->prepare("SELECT * FROM employees WHERE employee_id = ?");
 if (!$stmt) {
     die("Prepare failed: " . $conn->error);
