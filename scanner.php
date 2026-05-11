@@ -8,7 +8,6 @@ $conn = new mysqli('localhost', 'root', 'root', 'employee_attendance_system');
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-
 // Process attendance
 $message = '';
 if (isset($_GET['emp_id'])) {
